@@ -1,0 +1,16 @@
+{
+  "name": "sequelizeexample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youxiachai",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "~1.7.0",
+    "mysql": "~2.1.1",
+    "sqlite3": "~2.2.0"
+  }
+}
